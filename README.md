@@ -2,7 +2,7 @@
 
 # Convolutional Neural Network (CNN) with Stochastic Gradient Descent (SGD)
 
-Model Overview
+## Model Overview
 This project employs a Convolutional Neural Network (CNN) architecture to detect intrusions in network traffic data. The CNN model is well-suited for this task due to its ability to automatically learn hierarchical feature representations from raw input data.
 
 Stochastic Gradient Descent (SGD)
